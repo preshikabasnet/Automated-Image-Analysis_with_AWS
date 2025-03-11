@@ -1,8 +1,5 @@
 # Script: AWS Rekognition Image Label Detector with CloudTrail Verification
 # Author: Preshika Basnet
-# CIT 438: Cloud Computing
-# Instructor: Dr. Victoria Uti
-# Final Project: Automating Image Analysis with AWS Rekognition and CloudTrail Integration 
 
 import boto3
 import json
